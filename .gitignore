@@ -1,0 +1,8 @@
+build/
+app/.build/
+backend/.venv/
+__pycache__/
+.DS_Store
+docs/linkedin-post.md
+design/
+.claude/
